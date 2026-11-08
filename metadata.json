@@ -1,0 +1,8 @@
+{
+  "name": "Remix WDRTrustedFinance",
+  "description": "WDRTrustedFinance - বিশ্বস্ত অনলাইন টাস্ক আর্নিং, ভিআইপি ইনভেস্টমেন্ট ও টিম কমিশন প্ল্যাটফর্ম",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
